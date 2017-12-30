@@ -1,0 +1,13 @@
+mossRxzero waffleIron 42 32
+mossRxzero blender 200 11
+mossRxzero knife 302 310
+mossRxzero longSword 909 10
+mossRxzero LongBow 309 10
+mossRxzero sword 352 5
+manutsaweeSitatham waffle iron 32 12
+manutsaweeSitatham blender 253 11
+manutsaweeSitatham knife 182 310
+manutsaweeSitatham longSword 909 500
+manutsaweeSitatham bow 39 10
+manutsaweeSitatham sword 10 5
+manutsaweeSitatham pot 20 5

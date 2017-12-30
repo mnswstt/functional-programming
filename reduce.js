@@ -14,4 +14,5 @@ for (let i = 0; i < orders.length; i++) {
     total_amount2 += orders[i].amount
 }
 
-console.log(total_amount2);
+console.log("High-order Function:", total_amount);
+console.log("Loop:", total_amount2);
